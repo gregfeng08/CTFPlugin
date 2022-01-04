@@ -1,0 +1,10 @@
+name: CTFPlugin
+version: 1.0
+author: PyroMageEx
+main: me.PyroMageEx.CTFPlugin.Main
+description: Capture the Flag/Wool Plugin
+
+commands:
+  get:
+    aliases: [ctf]
+    description: Gets a flag block or display's a team's flag location
